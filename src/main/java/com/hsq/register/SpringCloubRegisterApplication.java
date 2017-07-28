@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class SpringCloubRegisterApplication {
 
 	/**
-	 * 修改提交测试124
+	 * 修改提交测试1234
 	 * @param args
 	 */
 	public static void main(String[] args) {
